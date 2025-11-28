@@ -1,0 +1,4 @@
+.venv/
+.idea/
+__pycache__/
+Classification/model_sentiment_indobert_final/
